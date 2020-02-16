@@ -11,5 +11,6 @@ I *don't know* programming skills,but  **I hope** to master these skills in the 
 
 решила прочитать требвания к названию коммитов)
 Попробу добавит еще коммитов
+ибо делать git-revert -лениво
 
 
